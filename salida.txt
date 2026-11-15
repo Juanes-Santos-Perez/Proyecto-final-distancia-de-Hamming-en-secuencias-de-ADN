@@ -1,0 +1,13 @@
+Pareja 1: ACGT vs ACGT -> Distancia: 0 | Identidad: 100.0%
+ACGT A=1 C=1 G=1 T=1 GC=50.0%
+ACGT A=1 C=1 G=1 T=1 GC=50.0%
+Pareja 2: AAAA vs TTTT -> Distancia: 4 | Identidad: 0.0%
+AAAA A=4 C=0 G=0 T=0 GC=0.0%
+TTTT A=0 C=0 G=0 T=4 GC=0.0%
+Pareja 3: ACGT vs ACGA -> Distancia: 1 | Identidad: 75.0%
+ACGT A=1 C=1 G=1 T=1 GC=50.0%
+ACGA A=2 C=1 G=1 T=0 GC=50.0%
+Pareja 4: JESP vs ACTG -> Error: caracteres no validos
+Pareja 5: ACG vs ACGTA -> Error: longitudes diferentes
+Aviso: linea ignorada por formato incorrecto: TGCA
+Aviso: linea ignorada por formato incorrecto: AA CC GG
